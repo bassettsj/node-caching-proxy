@@ -1,6 +1,6 @@
 {
   "name": "caching-proxy",
-  "version": "0.1",
+  "version": "0.1.0",
   "author": "Colin Mollenhour",
   "description": "Caching reverse-proxy middleware for Connect",
   "homepage": "https://github.com/colinmollenhour/node-caching-proxy",
